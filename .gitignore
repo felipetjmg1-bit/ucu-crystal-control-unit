@@ -1,0 +1,5 @@
+
+# Arquivos locais e artefatos de desenvolvimento
+.DS_Store
+Thumbs.db
+*.log
